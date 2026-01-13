@@ -3,8 +3,8 @@
 한국어를 지원하며, 로컬 환경에서 실행 가능한 TTS(Text-to-Speech) 모델들을 정리한 Awesome 리스트입니다.
 
 > Criteria  
-> - 🇰🇷 Korean supported  
-> - 🖥️ Runs locally (no mandatory cloud API)  
+> - 🇰🇷 Korean supported
+> - Runs locally (no mandatory cloud API)  
 
 ---
 
@@ -32,11 +32,18 @@
 
 ## Open-Source Models
 
+## Open-Source Models
+
 | Name | Language | License | Inference | Link | Notes |
 |------|----------|---------|-----------|------|-------|
-| Coqui TTS (Korean) | KO | MPL-2.0 | CPU / GPU | link | Multi-speaker |
-| VITS-Korean | KO | MIT | GPU | link | Research-based |
-| … | | | | | |
+| Supertonic | KO | Open | CPU/GPU | GitHub | Lightweight local TTS |
+| facebook/mms-tts-kor | KO | Open | CPU/GPU | HuggingFace | Meta MMS Korean TTS model :contentReference[oaicite:12]{index=12} |
+| MeloTTS-Korean | KO | Open | CPU | HuggingFace | Multi-lingual TTS library :contentReference[oaicite:13]{index=13} |
+| RealTime_zeroshot_TTS_ko | KO | Open | CPU/GPU | GitHub | Zero-shot TTS supporting custom voices :contentReference[oaicite:14]{index=14} |
+| Orpheus-3b-Korean-FT-Q8_0 | KO | Open | GPU/Quantised | HuggingFace | Quantised high-quality TTS :contentReference[oaicite:15]{index=15} |
+| hexgrad/Kokoro-82M | Multi (incl. KO) | Apache-2.0 | CPU/GPU | HuggingFace | Lightweight model family :contentReference[oaicite:16]{index=16} |
+| Coqui XTTS-v2 | Multi (incl. KO) | MPL-2.0 | CPU/GPU | HuggingFace/Coqui | Multi-speaker, Korean support :contentReference[oaicite:17]{index=17} |
+
 
 ---
 
