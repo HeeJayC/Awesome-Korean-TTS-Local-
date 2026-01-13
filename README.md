@@ -36,13 +36,13 @@
 
 | Name | Language | License | Inference | Link | Notes |
 |------|----------|---------|-----------|------|-------|
-| Supertonic | KO | Open | CPU/GPU | GitHub | Lightweight local TTS |
-| facebook/mms-tts-kor | KO | Open | CPU/GPU | HuggingFace | Meta MMS Korean TTS model :contentReference[oaicite:12]{index=12} |
-| MeloTTS-Korean | KO | Open | CPU | HuggingFace | Multi-lingual TTS library :contentReference[oaicite:13]{index=13} |
-| RealTime_zeroshot_TTS_ko | KO | Open | CPU/GPU | GitHub | Zero-shot TTS supporting custom voices :contentReference[oaicite:14]{index=14} |
-| Orpheus-3b-Korean-FT-Q8_0 | KO | Open | GPU/Quantised | HuggingFace | Quantised high-quality TTS :contentReference[oaicite:15]{index=15} |
-| hexgrad/Kokoro-82M | Multi (incl. KO) | Apache-2.0 | CPU/GPU | HuggingFace | Lightweight model family :contentReference[oaicite:16]{index=16} |
-| Coqui XTTS-v2 | Multi (incl. KO) | MPL-2.0 | CPU/GPU | HuggingFace/Coqui | Multi-speaker, Korean support :contentReference[oaicite:17]{index=17} |
+| Supertonic | KO | Open | CPU/GPU | https://github.com/metame-ai/supertonic | Lightweight local TTS |
+| facebook/mms-tts-kor | KO | Open | CPU/GPU | https://huggingface.co/facebook/mms-tts-kor | Meta MMS Korean TTS model |
+| MeloTTS-Korean | KO | Open | CPU | https://huggingface.co/myshell-ai/MeloTTS-Korean | Multi-lingual TTS library |
+| RealTime_zeroshot_TTS_ko | KO | Open | CPU/GPU | https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko | Zero-shot TTS supporting custom voices |
+| Orpheus-3b-Korean-FT-Q8_0 | KO | Open | GPU/Quantised | https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf | Quantised high-quality TTS |
+| hexgrad/Kokoro-82M | Multi (incl. KO) | Apache-2.0 | CPU/GPU | https://huggingface.co/hexgrad/Kokoro-82M | Lightweight model family |
+| Coqui XTTS-v2 | Multi (incl. KO) | MPL-2.0 | CPU/GPU | https://github.com/coqui-ai/tts | Multi-speaker, Korean support |
 
 
 ---
