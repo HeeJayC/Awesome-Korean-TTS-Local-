@@ -30,11 +30,11 @@
 
 | Name | Lang | License | Infer | Link | Notes |
 |------|------|---------|-------|------|-------|
-| Supertonic | KO | Open | CPU/GPU | [GitHub](https://github.com/supertone-inc/supertonic) | Lightweight local TTS |
-| MMS TTS (kor) | KO | Open (NC) | CPU/GPU | [HF](https://huggingface.co/facebook/mms-tts-kor) | Meta MMS Korean TTS model |
-| MeloTTS (ko) | KO | Open | CPU | [HF](https://huggingface.co/myshell-ai/MeloTTS-Korean) | Multi-lingual TTS library |
-| RealTime Zero-shot TTS (ko) | KO | Open | CPU/GPU | [GitHub](https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko) | Zero-shot TTS supporting custom voices |
-| Orpheus-3B (ko, Q8) | KO | Open | GPU/Quant | [HF](https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf) | Quantised high-quality TTS |
+| Supertonic | KO | Open | CPU / GPU (ONNX) | [GitHub](https://github.com/supertone-inc/supertonic) | ONNX inference examples provided |
+| MMS TTS (kor) | KO | Open (NC) | CPU / GPU | [HF](https://huggingface.co/facebook/mms-tts-kor) | Meta MMS Korean TTS model |
+| MeloTTS (ko) | KO | Open | CPU (real-time capable) | [HF](https://huggingface.co/myshell-ai/MeloTTS-Korean) | MIT licensed |
+| RealTime Zero-shot TTS (ko) | KO | Open | Not specified | [GitHub](https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko) | Zero-shot TTS approach |
+| Orpheus-3B (ko, Q8) | KO | Open | Not specified | [HF](https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf) | Q8_0 quantized GGUF checkpoint |
 
 ## Open-Source Models — Details
 
