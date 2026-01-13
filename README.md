@@ -11,12 +11,8 @@
 ## Contents
 - [Overview](#overview)
 - [Open-Source Models](#open-source-models)
-- [Research / Academic Models](#research--academic-models)
-- [Lightweight / Edge Models](#lightweight--edge-models)
-- [Commercial but Local SDK](#commercial-but-local-sdk)
-- [Toolkits & Frameworks](#toolkits--frameworks)
+- [Open-Source Models — Details](#open-source-models--details)
 - [Benchmarks](#benchmarks)
-- [Datasets (Korean)](#datasets-korean)
 
 ---
 
