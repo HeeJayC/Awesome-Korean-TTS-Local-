@@ -32,16 +32,15 @@
 
 ## Open-Source Models
 
-| Name | Language | License | Inference | Link | Notes |
-|-----|------|------|-------|----------|----------|
-| Supertonic | KO | Open | CPU/GPU | https://github.com/metame-ai/supertonic | Lightweight local TTS |
-| facebook/mms-tts-kor | KO | Open | CPU/GPU | https://huggingface.co/facebook/mms-tts-kor | Meta MMS Korean TTS model |
-| MeloTTS-Korean | KO | Open | CPU | https://huggingface.co/myshell-ai/MeloTTS-Korean | Multi-lingual TTS library |
-| RealTime_zeroshot_TTS_ko | KO | Open | CPU/GPU | https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko | Zero-shot TTS supporting custom voices |
-| Orpheus-3b-Korean-FT-Q8_0 | KO | Open | GPU/Quantised | https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf | Quantised high-quality TTS |
-| hexgrad/Kokoro-82M | Multi (incl. KO) | Apache-2.0 | CPU/GPU | https://huggingface.co/hexgrad/Kokoro-82M | Lightweight model family |
-| Coqui XTTS-v2 | Multi (incl. KO) | MPL-2.0 | CPU/GPU | https://github.com/coqui-ai/tts | Multi-speaker, Korean support |
-
+| Name | Lang | License | Infer | Link | Notes |
+|------|------|---------|-------|------|-------|
+| Supertonic | KO | Open | CPU/GPU | [GitHub](https://github.com/metame-ai/supertonic) | Lightweight local TTS |
+| MMS TTS (kor) | KO | Open | CPU/GPU | [HF](https://huggingface.co/facebook/mms-tts-kor) | Meta MMS Korean TTS model |
+| MeloTTS (ko) | KO | Open | CPU | [HF](https://huggingface.co/myshell-ai/MeloTTS-Korean) | Multi-lingual TTS library |
+| RealTime Zero-shot TTS (ko) | KO | Open | CPU/GPU | [GitHub](https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko) | Zero-shot TTS supporting custom voices |
+| Orpheus-3B (ko, Q8) | KO | Open | GPU/Quant | [HF](https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf) | Quantised high-quality TTS |
+| Kokoro-82M | Multi (incl. KO) | Apache-2.0 | CPU/GPU | [HF](https://huggingface.co/hexgrad/Kokoro-82M) | Lightweight model family |
+| Coqui XTTS-v2 | Multi (incl. KO) | MPL-2.0 | CPU/GPU | [GitHub](https://github.com/coqui-ai/tts) / [HF](https://huggingface.co/coqui/XTTS-v2) | Multi-speaker, Korean support |
 
 ---
 
