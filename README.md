@@ -32,10 +32,8 @@
 
 ## Open-Source Models
 
-## Open-Source Models
-
 | Name | Language | License | Inference | Link | Notes |
-|------|----------|---------|-----------|------|-------|
+|-----|------|------|-------|----------|----------|
 | Supertonic | KO | Open | CPU/GPU | https://github.com/metame-ai/supertonic | Lightweight local TTS |
 | facebook/mms-tts-kor | KO | Open | CPU/GPU | https://huggingface.co/facebook/mms-tts-kor | Meta MMS Korean TTS model |
 | MeloTTS-Korean | KO | Open | CPU | https://huggingface.co/myshell-ai/MeloTTS-Korean | Multi-lingual TTS library |
