@@ -35,7 +35,7 @@
 | MeloTTS (ko) | KO | Open | CPU (real-time capable) | [HF](https://huggingface.co/myshell-ai/MeloTTS-Korean) | MIT licensed |
 | RealTime Zero-shot TTS (ko) | KO | Open | Not specified | [GitHub](https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko) | Zero-shot TTS approach |
 | Orpheus-3B (ko, Q8) | KO | Open | Not specified | [HF](https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf) | Q8_0 quantized GGUF checkpoint |
-| GPT-SoVITS | KO | Open | Not specified | [GitHub](https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file) | MIT licensed |
+| GPT-SoVITS | KO | Open | Not specified | [GitHub](https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file) | Voice Cloning |
 
 ## Open-Source Models — Details
 
