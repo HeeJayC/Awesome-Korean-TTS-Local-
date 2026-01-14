@@ -36,6 +36,7 @@
 | RealTime Zero-shot TTS (ko) | KO | Open | Not specified | [GitHub](https://github.com/Nyan-SouthKorea/RealTime_zeroshot_TTS_ko) | Zero-shot TTS approach |
 | Orpheus-3B (ko, Q8) | KO | Open | Not specified | [HF](https://huggingface.co/lex-au/Orpheus-3b-Korean-FT-Q8_0.gguf) | Q8_0 quantized GGUF checkpoint |
 | GPT-SoVITS | KO | Open | Not specified | [GitHub](https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file) | Voice Cloning |
+| Fun-CosyVoice3-0.5B | KO | Open | Not specified | [HF](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512) | Multilingual TTS |
 
 ## Open-Source Models — Details
 
@@ -116,6 +117,20 @@
   - Supports multiple languages including Korean
 - **Notes**
   - Requires reference audio for target speaker voice generation
+
+---
+
+### Fun-CosyVoice3-0.5B
+
+- **License**: Apache-2.0
+  - Free for both commercial and non-commercial use
+  - Attribution and license notice required
+- **Inference**: Not specified
+- **Description**
+  - CosyVoice3-based multilingual Text-to-Speech model
+  - Supports multiple languages including Korean
+- **Notes**
+  - Model weights are provided via Hugging Face for local use
 
 ---
 
